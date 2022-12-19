@@ -1,0 +1,6 @@
+﻿  Terminal.c
+D:\PAYMENT APP\payment_appp\payment_app\Terminal\Terminal.c(25,23): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+D:\PAYMENT APP\payment_appp\payment_app\Terminal\Terminal.c(80,19): warning C4047: '<': 'uint8_t [3]' differs in levels of indirection from 'int'
+D:\PAYMENT APP\payment_appp\payment_app\Terminal\Terminal.c(109,49): warning C4028: formal parameter 1 different from declaration
+D:\PAYMENT APP\payment_appp\payment_app\Terminal\Terminal.c(109,78): warning C4028: formal parameter 2 different from declaration
+  payment_app.vcxproj -> D:\PAYMENT APP\payment_appp\x64\Debug\payment_app.exe
